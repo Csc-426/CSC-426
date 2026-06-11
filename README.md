@@ -7,7 +7,7 @@ The current submission is the weekly dev exercise, which has two separate tasks:
 1. A desktop calculator built with Java Swing (myCalculator).
 2. A web login authentication app built with HTML, CSS, JavaScript and PHP.
 
-**Live login app:** https://godsglory.gt.tc/
+**Live login app:** https://toheeb.freedev.app/
 
 Each task sits in its own folder and has its own README with more detail.
 
@@ -18,7 +18,7 @@ Each task sits in its own folder and has its own README with more detail.
 ├── calculator/        myCalculator, Java Swing desktop app
 │   ├── MyCalculator.java
 │   └── README.md
-└── login/             PHP login authentication app (hosted online)
+└── auth website/             PHP login authentication app (hosted online)
     ├── index.html
     ├── style.css
     ├── script.js
@@ -84,7 +84,7 @@ php -S localhost:8000
 
 Then open http://localhost:8000 and sign in with the same demo account above.
 
-Deployment notes and the full feature list are in `login/README.md`.
+Deployment notes and the full feature list are in `auth website/README.md`.
 
 ## Tools used
 
